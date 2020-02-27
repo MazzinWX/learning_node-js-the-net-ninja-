@@ -1,0 +1,25 @@
+{
+  "name": "net-ninja_node-js-learning",
+  "version": "0.0.1",
+  "description": "A tutorial to learn how to you node.js (+ express.js)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MazzinWX/learning_node-js-the-net-ninja-.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "express"
+  ],
+  "author": "MazzinWx (from the tutorial of Shaun - The Net Ninja)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MazzinWX/learning_node-js-the-net-ninja-/issues"
+  },
+  "homepage": "https://github.com/MazzinWX/learning_node-js-the-net-ninja-#readme"
+}
