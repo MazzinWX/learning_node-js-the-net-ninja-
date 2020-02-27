@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/MazzinWX/learning_node-js-the-net-ninja-/issues"
   },
-  "homepage": "https://github.com/MazzinWX/learning_node-js-the-net-ninja-#readme"
+  "homepage": "https://github.com/MazzinWX/learning_node-js-the-net-ninja-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
