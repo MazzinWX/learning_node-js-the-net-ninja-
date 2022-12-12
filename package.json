@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/MazzinWX/learning_node-js-the-net-ninja-#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
